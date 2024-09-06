@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Johnny24-code
 - 👀 I’m interested in data analysis and machine learning 
 - 🌱 I’m currently learning different applications of Python and its libraries to solve analytical issues
-- 💞️ I’m looking to collaborate on a machine learning project to profile offenders.
+- 💞️ I’m looking to collaborate on a machine learning project.
 
 
 <!---
